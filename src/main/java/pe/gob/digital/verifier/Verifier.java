@@ -28,7 +28,7 @@ import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
 /**
  *
- * @author rmart
+ * @author rmartinezch
  */
 public class Verifier {
 
